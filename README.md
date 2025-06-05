@@ -53,7 +53,7 @@ I love coding 🌱✨
 
 ### 🍓 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/@shreya.codes-%23ffb6c1.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreya.codes)  
+[![Instagram](https://img.shields.io/badge/@shreyaouff-%23ffb6c1.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreya.codes)  
 [![Portfolio](https://img.shields.io/badge/🌸%20Portfolio-pink?style=for-the-badge)](https://shreyamishra.vercel.app)
 
 ---
