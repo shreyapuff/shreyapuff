@@ -63,7 +63,7 @@
 
 | 🌼 Project | Description |
 |-----------|-------------|
-| [**Bloomly**](https://github.com/shreyapuff/bloomly) | Soft mood garden powered by localStorage, semantic HTML5, cute CSS vars, and meaningful microinteractions |
+| [**Bloomly**](https://github.com/shreyapuff/bloomly) | Soft mood garden powered by localStorage, semantic HTML5, CSS vars, and meaningful microinteractions |
 | **shreyapuff.dev** | My personal site: minimal, emotional, pastel-coded portfolio |
 | **Tiny Tools** | Lightweight frontend experiments that prioritize clarity and cuteness |
 
