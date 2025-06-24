@@ -1,63 +1,48 @@
-<!-- README.md -->
+<h1 align="center">Hi, I'm Shreya 🌸</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
+  A curious coder, visual thinker & lover of beautiful things.
+</p>
 
-<div align="center">
-
-｡ﾟ•┈୨♡୧┈•ﾟ｡
-🌸 Hey there! I'm Shreya 💻🌷
-I love coding 🌱✨
-｡ﾟ•┈୨♡୧┈•ﾟ｡
-
-
-![Visitors](https://img.shields.io/badge/visitors-pretty%20cool%20humans-ffc9e3?style=for-the-badge&logo=spacemacs&logoColor=ffb6c1)
-
-🎀🐰🌷🍓🌼💌🧁🌸🍥🧸🍰💿🎠💒
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=F78DA7&size=22&center=true&vCenter=true&lines=I+love+creating+joyful+UX!;Designing+tiny+delights+🌼;Coding+with+kindness+💖;Always+learning+new+things+📚" />
+</p>
 
 ---
 
-### 🌼 About Me
+### 🧩 About Me
 
-<img src="https://dl.glitter-graphics.com/pub/727/727401g3q6xq7e4a.gif" width="200" />
-
-✨ I’m a Computer Science student  
-🎠 I love building dreamy websites and whimsical web apps  
-🧸 I believe code should feel like magic  
-🍥 Mood-based productivity + garden-themed UI = my kind of project  
-🌷 Let's grow something beautiful together ~
+- 🌱 Currently working on: [Bloomly](https://github.com/shreyapuff) — the *cutest mood tracker* ever 🌷
+- 🎨 Designing interfaces that feel like a warm hug
+- 🧠 Into cognitive science, emotional design, and frontend architecture
+- 💌 Reach me: [@shreyapuff](https://twitter.com/shreyapuff) | [Email](mailto:your@email.com)
 
 ---
 
-### 🎀 Skills & Tools
+### 💼 Tech Stack
 
-- 🧁 HTML • CSS • JavaScript  
-- 🍓 React • Next.js • Tailwind CSS  
-- 🐇 Firebase • Framer Motion  
-- 💌 Git • GitHub • VS Code  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,vscode&perline=6" />
 
 ---
 
-### 🌸 Featured Projects
+### 🌱 Latest Projects
 
-| 🌷 Project | 🌼 Description |
+| 🌸 Project | 🌈 Description |  
 |-----------|----------------|
-| [PetalPlanner](https://github.com/ShreyaMishra/PetalPlanner) | A mood-based productivity tracker where your tasks bloom into flowers |
+| [**Bloomly**](https://github.com/shreyapuff) | Mood journaling app with the softest UI 🍃 |
+| **Portfolio Site** | Minimal & magical personal website ✨ |
+| **Tiny Tools** | Little web things for joy & productivity 🔧 |
 
 ---
 
-### 🧁 Soft Goals
+### ✨ Fun Bits
 
-- 🌈 Make the cutest portfolio website ever  
-- 💿 Publish open-source projects with charm  
-- 💌 Collaborate with dreamy developers like you  
-
----
-
-### 🍓 Let's Connect
-
-[![Instagram](https://img.shields.io/badge/@shreyaouff-%23ffb6c1.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shreya.codes)  
-[![Portfolio](https://img.shields.io/badge/🌸%20Portfolio-pink?style=for-the-badge)](https://shreyamishra.vercel.app)
+- 💡 I believe: *"Cute is a design superpower."*
+- 🍵 Fav vibes: Cozy rain, pastel colors, smooth animations
+- 🧚 Currently vibing to: Lofi + fantasy ambiance
 
 ---
 
-🧸 Thanks for stopping by! Let’s code something lovely 🌷✨  
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer"/>
+</p>
