@@ -4,10 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&text=Shreya%20Mishra&height=150&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" />
-  <em>Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</em>
-</p>
+<p align="center"><strong>👋 Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=440&lines=Crafting+gentle+UX+with+heart+🌷;Designing+tiny+joys+in+code+🌼;Learning+forever+%E2%9C%A8;Cute+is+a+superpower+💖" />
@@ -50,16 +47,16 @@
 
 ### 🎀 Soft Skills
 
-- 💖 Kindness-driven collaboration
-- 🧁 Emotional design & microinteractions
+- 💖 Kindness-driven collaboration  
+- 🧁 Emotional design & microinteractions  
 - 🦋 Accessibility × elegance × joy
 
 ---
 
 ### 🍵 Cozy Vibes
 
-- 🎧 Playlist: Lofi + Studio Ghibli piano + ambient rain
-- 🌸 Aesthetic: Pastel skies, gentle gradients, floaty animations
+- 🎧 Playlist: Lofi + Studio Ghibli piano + ambient rain  
+- 🌸 Aesthetic: Pastel skies, gentle gradients, floaty animations  
 - ✨ Motto: *“Cute is not decoration. It’s care, it’s clarity, it’s design power.”*
 
 ---
