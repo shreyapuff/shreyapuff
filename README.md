@@ -43,7 +43,7 @@
 > 🌈 I'm a creative technologist who loves designing delightful experiences.  
 > 🧁 I build cute yet powerful tools, apps, and websites.  
 > 📚 Currently exploring human-centered AI and design systems.  
-> 🌧️ I design experiences that feel like pastel tea and quiet rain.  
+> 🌧️ I design experiences that feel like quiet rain.  
 
 ---
 
