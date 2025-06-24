@@ -32,8 +32,8 @@
 <!-- 🌈 Rainbow-cute pastel badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20+%20HTML%20%26%20CSS-ffd6e0?style=for-the-badge&labelColor=ffb6c1&color=ffd6e0" />
-  <img src="https://img.shields.io/badge/Vibes-Rainbow%20Cozy-ffe0f0?style=for-the-badge&labelColor=d0f0fd&color=ffe0f0" />
-  <img src="https://img.shields.io/badge/Design%20Superpower-Cute%20UX-ffe6c7?style=for-the-badge&labelColor=c3fbd8&color=ffe6c7" />
+  <img src="https://img.shields.io/badge/Vibes-%20Cozy-ffe0f0?style=for-the-badge&labelColor=d0f0fd&color=ffe0f0" />
+  <img src="https://img.shields.io/badge/Design%20-Light%20UX-ffe6c7?style=for-the-badge&labelColor=c3fbd8&color=ffe6c7" />
 </p>
 
 ---
