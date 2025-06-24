@@ -24,7 +24,7 @@
                  -webkit-text-fill-color: transparent; 
                  font-weight: 700; 
                  font-size: 1.2rem;">
-      Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer
+      Frontend Developer ✧ UX Designer ✧ Coder
     </span>
   </strong>
 </p>
