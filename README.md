@@ -1,17 +1,17 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ffc9dc&height=160&text=Shreya%20Mishra&fontSize=45&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ffc9dc&height=160&text=Shreya%20Mishra&fontSize=45&fontColor=fff" alt="Shreya Mishra banner" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="wave gif" />
 </p>
 
 <p align="center"><strong>Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=440&lines=Designing+with+heart+%26+sparkles+🌷;Crafting+tiny+interactions+that+delight+🌼;Coding+kind+experiences+💖;Cute+is+a+design+superpower+🧚" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=440&lines=Designing+with+heart+%26+sparkles+🌷;Crafting+tiny+interactions+that+delight+🌼;Coding+kind+experiences+💖;Cute+is+a+design+superpower+🧚" alt="typing effect" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ### 🛠️ Tech I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,vscode,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,vscode,github&perline=8" alt="tech stack icons" />
 </p>
 
 ---
@@ -68,11 +68,11 @@
 ### 📊 My GitHub World
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyapuff&show_icons=true&theme=rose_pine&hide_border=true&icon_color=ffc0cb&title_color=f78da7&text_color=7f5f8f" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyapuff&show_icons=true&theme=rose_pine&hide_border=true&icon_color=ffc0cb&title_color=f78da7&text_color=7f5f8f" alt="github stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer" alt="footer wave" />
 </p>
