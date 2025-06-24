@@ -5,34 +5,35 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&text=Shreya%20Mishra&height=150&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- ✨ Typing animated quotes -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=F78DA7&width=420&lines=I+love+coding+💖;Soft+design+is+real+design+🌸;Creativity+is+a+kind+of+kindness+🧁;Making+magic+with+markup+✨" />
-</p>
+
 
 <!-- 👋 Your wave gif -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/wave.gif" width="40" alt="wave gif" />
 </p>
-
-<!-- 🧁 Magical tagline -->
-<p align="center"><strong>Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</strong></p>
-
-<!-- 🌷 Additional typing animation if you want -->
+<!-- ✨ Typing animated quotes -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=F78DA7&width=440&lines=Crafting+gentle+UX+with+heart+🌷;Designing+tiny+joys+in+code+🌼;Learning+forever+✨;Cute+is+a+superpower+💖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=F78DA7&width=420&lines=I+love+coding+💖;Soft+design+is+real+design+🌸;Creativity+is+a+kind+of+kindness+🧁;Making+magic+with+markup+✨" />
 </p>
 
-<!-- 🧸 Pixel mascot -->
+<!-- 🧁 Magical tagline with rainbow gradient -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/assets/pixel-shreya.gif" height="140px" alt="pixel shreya" />
+  <strong>
+    <span style="background: linear-gradient(90deg, #ffb6c1, #ffdeeb, #d0f0fd, #c3fbd8, #ffe5b4); 
+                 -webkit-background-clip: text; 
+                 -webkit-text-fill-color: transparent; 
+                 font-weight: 700; 
+                 font-size: 1.2rem;">
+      Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer
+    </span>
+  </strong>
 </p>
 
-<!-- 🎀 Cute badges -->
+<!-- 🌈 Rainbow-cute pastel badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20and%20HTML%20%26%20CSS-ffc9dc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vibes-Cozy%20%26%20Whimsical-ffb6c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design%20Superpower-Cute%20UX-ffaad4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20+%20HTML%20%26%20CSS-ffd6e0?style=for-the-badge&labelColor=ffb6c1&color=ffd6e0" />
+  <img src="https://img.shields.io/badge/Vibes-Rainbow%20Cozy-ffe0f0?style=for-the-badge&labelColor=d0f0fd&color=ffe0f0" />
+  <img src="https://img.shields.io/badge/Design%20Superpower-Cute%20UX-ffe6c7?style=for-the-badge&labelColor=c3fbd8&color=ffe6c7" />
 </p>
 
 ---
@@ -91,6 +92,10 @@
 </p>
 
 ---
+<!-- 🌷 Additional typing animation if you want -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=2000&pause=1000&center=true&vCenter=true&color=F78DA7&width=440&lines=Crafting+gentle+UX+with+heart+🌷;Designing+tiny+joys+in+code+🌼;Learning+forever+✨;Cute+is+a+superpower+💖" />
+</p>
 
 <!-- 🌈 Footer wave -->
 <p align="center">
