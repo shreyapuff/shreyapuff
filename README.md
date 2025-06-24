@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&text=Shreya%20Mishra&height=150&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/wave.gif" width="40" alt="wave gif" /></h1>
+<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/wave.gif" width="40" alt="wave gif" /></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/assets/pixel-shreya.gif" height="140px" alt="pixel shreya" />
