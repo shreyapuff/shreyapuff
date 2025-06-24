@@ -1,68 +1,80 @@
 <!-- README.md -->
 
-<h1 align="center">🌸 Shreya Mishra</h1>
-<h3 align="center"><em>Frontend Enchanter ✦ UX Alchemist ✦ Code Witch of Whimsy</em></h3>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36" alt="Waving GIF" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&text=Shreya%20Mishra&height=150&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<p align="center"><em>Designing joyful, kind experiences with soft code & sparkles 💖</em></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+</p>
+
+<p align="center"><strong>Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</strong></p>
+
+<p align="center">
+  <font=Quicksand&weight=500&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=440&lines=Crafting+gentle+UX+with+heart+🌷;Designing+tiny+joys+in+code+🌼;Learning+forever+%E2%9C%A8;Cute+is+a+superpower+💖" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20and%20HTML%20%26%20CSS-ffc9dc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibes-Cozy%20%26%20Whimsical-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20Superpower-Cute%20UX-ffaad4?style=for-the-badge" />
+</p>
 
 ---
 
-### 🌷 About Me
+### 🌸 About Me
 
-> I build interfaces that feel like warm hugs wrapped in pastel gradients.
-
-- ✨ Building: [**Bloomly**](https://github.com/shreyapuff) — the *cutest mood tracker* ever 🍃  
-- 🧠 Into: emotional UX, cognitive science, frontend architecture  
-- 🎀 Designing experiences that make users feel safe, seen, and smiled at  
-- 💌 Reach me: [@shreyapuff](https://twitter.com/shreyapuff) · [Email](mailto:your@email.com)
+- 🛠️ Making: [**Bloomly**](https://github.com/shreyapuff) — mood tracking made soft & soulful 🍃  
+- 🧠 Interests: Cognitive science × Emotional UX × Delightful frontend
+- 🌈 I design experiences that feel like pastel tea and quiet rain
+- 📬 DM me: [@shreyapuff](https://twitter.com/shreyapuff) | [Email](mailto:your@email.com)
 
 ---
 
 ### 🛠️ Tech I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,vscode,github&perline=8" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,vscode,github&perline=8" />
 </p>
 
 ---
 
-### ✨ Projects I Cherish
+### ✨ Featured Projects
 
-| 💖 Project | 🌼 Description |
+| 💫 Project | 🌸 Description |
 |-----------|----------------|
-| [**Bloomly**](https://github.com/shreyapuff) | Mood journaling with softness, sparkles & real-time hugs 💕 |
-| **shreyapuff.dev** | A dreamy, minimalist portfolio with floating joy ✨ |
-| **Tiny Tools** | Little joy-sparking utilities to simplify your digital day 🧃 |
+| [**Bloomly**](https://github.com/shreyapuff) | Cutest mood journal app ever — built with kindness 💕 |
+| **shreyapuff.dev** | A whimsical portfolio with magical vibes ✨ |
+| **Tiny Tools** | Pocket-sized apps for joyful productivity 🧃 |
 
 ---
 
-### 🎀 My Soft Skills
+### 🎀 Soft Skills
 
-- 💖 Empathy-led collaboration  
-- 🧁 Microinteraction queen (loving those hover states!)  
-- 🦋 Accessibility × elegance × delight
-
----
-
-### 🍵 My Cozy Coding Vibes
-
-| ☁️ Rainy Mornings | 🎧 Lofi + Fantasy Forests | 🎨 Soft Gradients & Floating Elements |
-|------------------|---------------------------|--------------------------------------|
+- 💖 Kindness-driven collaboration  
+- 🧁 Emotional design & microinteractions  
+- 🦋 Accessibility × elegance × joy
 
 ---
 
-### 📊 GitHub Mood Board
+### 🍵 Cozy Vibes
+
+- 🎧 Playlist: Lofi + Studio Ghibli piano + ambient rain  
+- 🌸 Aesthetic: Pastel skies, gentle gradients, floaty animations  
+- ✨ Motto: *“Cute is not decoration. It’s care, it’s clarity, it’s design power.”*
+
+---
+
+### 📊 My GitHub World
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyapuff&show_icons=true&theme=rose_pine&hide_border=true&icon_color=ffc0cb&title_color=f78da7&text_color=7f5f8f" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyapuff&show_icons=true&theme=rose_pine&hide_border=true&icon_color=ffc0cb&title_color=f78da7&text_color=7f5f8f" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>🪄 Built with tea, kindness & `border-radius: 9999px` ✨</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
 </p>
+
+
