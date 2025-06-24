@@ -1,29 +1,33 @@
 <!-- README.md -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&text=Shreya%20Mishra&height=150&fontSize=40&fontColor=ffffff&animation=twinkling" />
-</p>
-
-<p align="center"><strong>👋 Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=440&lines=Crafting+gentle+UX+with+heart+🌷;Designing+tiny+joys+in+code+🌼;Learning+forever+%E2%9C%A8;Cute+is+a+superpower+💖" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=ffc9dc&height=160&text=Shreya%20Mishra&fontSize=45&fontColor=fff" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20and%20HTML%20%26%20CSS-ffc9dc?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vibes-Cozy%20%26%20Whimsical-ffb6c1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design%20Superpower-Cute%20UX-ffaad4?style=for-the-badge" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+</p>
+
+<p align="center"><strong>Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</strong></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1200&color=F78DA7&center=true&vCenter=true&width=440&lines=Designing+with+heart+%26+sparkles+🌷;Crafting+tiny+interactions+that+delight+🌼;Coding+kind+experiences+💖;Cute+is+a+design+superpower+🧚" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20HTML%20%26%20CSS-ffc9dc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibes-Cozy%20Rain%20%26%20Pastels-ffb6c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power-Up-Cute%20Microinteractions-ffaad4?style=for-the-badge" />
 </p>
 
 ---
 
 ### 🌸 About Me
 
-- 🛠️ Making: [**Bloomly**](https://github.com/shreyapuff) — mood tracking made soft & soulful 🍃  
-- 🧠 Interests: Cognitive science × Emotional UX × Delightful frontend
-- 🌈 I design experiences that feel like pastel tea and quiet rain
-- 📬 DM me: [@shreyapuff](https://twitter.com/shreyapuff) | [Email](mailto:your@email.com)
+- ✨ Making: [**Bloomly**](https://github.com/shreyapuff) — the *cutest mood tracker* ever 🍃  
+- 🧠 Obsessed with: emotional UX, frontend magic, and soft design systems  
+- 🎨 Designing experiences that feel like warm sunlight and tiny sparkles  
+- 📬 Say hi: [@shreyapuff](https://twitter.com/shreyapuff) | [Email](mailto:your@email.com)
 
 ---
 
@@ -39,25 +43,25 @@
 
 | 💫 Project | 🌸 Description |
 |-----------|----------------|
-| [**Bloomly**](https://github.com/shreyapuff) | Cutest mood journal app ever — built with kindness 💕 |
-| **shreyapuff.dev** | A whimsical portfolio with magical vibes ✨ |
-| **Tiny Tools** | Pocket-sized apps for joyful productivity 🧃 |
+| [**Bloomly**](https://github.com/shreyapuff) | Mood journaling with softness, sparkles & real-time hugs 💕 |
+| **shreyapuff.dev** | A dreamy, minimal portfolio with floating joy ✨ |
+| **Tiny Tools** | Pocket-sized helpers to make life cuter 🧃 |
 
 ---
 
 ### 🎀 Soft Skills
 
-- 💖 Kindness-driven collaboration  
-- 🧁 Emotional design & microinteractions  
-- 🦋 Accessibility × elegance × joy
+- 💖 Empathy-led collaboration  
+- 🧁 Intuitive, emotionally-resonant interfaces  
+- 🦋 Accessibility × delight × clarity
 
 ---
 
 ### 🍵 Cozy Vibes
 
-- 🎧 Playlist: Lofi + Studio Ghibli piano + ambient rain  
-- 🌸 Aesthetic: Pastel skies, gentle gradients, floaty animations  
-- ✨ Motto: *“Cute is not decoration. It’s care, it’s clarity, it’s design power.”*
+- 🎧 Listening to: Lofi + fantasy forests + soft synth  
+- 🧸 Aesthetic: soft pinks, floating shapes, subtle sparkles  
+- ✨ Motto: *"Cute is clarity wrapped in care."*
 
 ---
 
