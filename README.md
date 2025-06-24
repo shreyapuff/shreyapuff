@@ -4,8 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&text=Shreya%20Mishra&height=150&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/assets/wave.gif" width="40" alt="wave gif" /></h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/assets/pixel-shreya.gif" height="140px" alt="pixel shreya" />
 </p>
 
 <p align="center"><strong>Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</strong></p>
@@ -24,28 +26,32 @@
 
 ### 🌸 About Me
 
-- 🛠️ Making: [**Bloomly**](https://github.com/shreyapuff) — mood tracking made soft & soulful 🍃  
-- 🧠 Interests: Cognitive science × Emotional UX × Delightful frontend
-- 🌈 I design experiences that feel like pastel tea and quiet rain
-- 📬 DM me: [@shreyapuff](https://twitter.com/shreyapuff) | [Email](mailto:your@email.com)
+> 🌈 I'm a creative technologist who loves designing delightful experiences.  
+> 🧁 I build cute yet powerful tools, apps, and websites.  
+> 📚 Currently exploring human-centered AI and design systems.  
+> 🌧️ I design experiences that feel like pastel tea and quiet rain.  
 
 ---
 
-### 🛠️ Tech I Love
+### 🧩 Skills I Sprinkle Into My Work
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,vscode,github&perline=8" />
+  <img src="https://img.shields.io/badge/-HTML5-F7CFE6?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-D9BFFF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-FFE7BC?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Figma-CAF0F8?style=for-the-badge&logo=figma&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-EDE9FE?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 ---
 
-### ✨ Featured Projects
+### 💫 Featured Projects
 
-| 💫 Project | 🌸 Description |
+| 💖 Project | ✨ Description |
 |-----------|----------------|
-| [**Bloomly**](https://github.com/shreyapuff) | Cutest mood journal app ever — built with kindness 💕 |
-| **shreyapuff.dev** | A whimsical portfolio with magical vibes ✨ |
-| **Tiny Tools** | Pocket-sized apps for joyful productivity 🧃 |
+| [**Bloomly**](https://github.com/shreyapuff/bloomly) | Cutest mood journal ever — soft, soulful, and handcrafted 🍃 |
+| **shreyapuff.dev** | A whimsical portfolio site with magical vibes ✨ |
+| **Tiny Tools** | Little apps that spark joy and boost focus 🧃 |
 
 ---
 
@@ -76,5 +82,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
 </p>
-
 
