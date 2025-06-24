@@ -4,7 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&text=Shreya%20Mishra&height=150&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/wave.gif" width="40" alt="wave gif" /></h1>
+<h1 align="center" style="font-family:'Comic Neue','Quicksand','Segoe UI',sans-serif; font-weight:700; font-size:2.4rem; color:#f78da7;">
+  Hi there! I'm <span style="color:#ff88aa;">Shreya Mishra</span> <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/wave.gif" width="30" />
+</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/assets/pixel-shreya.gif" height="140px" alt="pixel shreya" />
@@ -13,7 +15,7 @@
 <p align="center"><strong>Frontend sorceress ✧ UX alchemist ✧ cute-code conjurer</strong></p>
 
 <p align="center">
-  <font=Quicksand&weight=500&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=440&lines=Crafting+gentle+UX+with+heart+🌷;Designing+tiny+joys+in+code+🌼;Learning+forever+%E2%9C%A8;Cute+is+a+superpower+💖" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=440&lines=Crafting+gentle+UX+with+heart+🌷;Designing+tiny+joys+in+code+🌼;Learning+forever+%E2%9C%A8;Cute+is+a+superpower+💖" />
 </p>
 
 <p align="center">
@@ -82,4 +84,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
 </p>
+
 
