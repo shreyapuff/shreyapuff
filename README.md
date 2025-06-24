@@ -40,9 +40,9 @@
 ### 🌸 About Me
 
 > ✨ I'm a frontend developer & UX designer with a focus on **emotionally intelligent, beautifully minimal interfaces.**  
-> 🧁 I build projects that are soft in form but sharp in execution — like a pastel knife.  
+> 🧁 I build projects that are soft in form but sharp in execution.  
 > 🎐 Accessibility, semantics, and delight are at the heart of everything I code.  
-> 🌱 I believe that *care is a technical skill* — and cuteness is clarity.
+> 🌱 I believe that *care is a technical skill* and is clarity.
 
 ---
 
