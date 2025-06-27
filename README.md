@@ -20,7 +20,7 @@
   Frontend Developer ✧ UX Designer ✧ Emotional Engineer
 </strong></p>
 
-<!-- 🌈 Aesthetic Badges -->
+<!-- 🌈 Rainbow-cute pastel badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20HTML%2C%20CSS%2C%20JS-ffd6e0?style=for-the-badge&labelColor=ffb6c1&color=ffd6e0" />
   <img src="https://img.shields.io/badge/Design-%F0%9F%92%AD%20Soft%20UX-ffe0f0?style=for-the-badge&labelColor=d0f0fd&color=ffe0f0" />
@@ -31,13 +31,13 @@
 
 ### 🌸 About Me
 
-Hi! I'm Shreya — a frontend designer-developer blending aesthetics and clarity to build poetic, interactive experiences.
+Hi! I'm Shreya — a frontend designer-developer crafting poetic, interactive experiences that blend clarity with feeling.
 
-I care about interfaces that:
-- 💖 Feel emotionally responsive  
-- 🎐 Use animation with intention, not decoration  
-- 🌿 Prioritize clarity, accessibility, and feeling  
-- 🌗 Embrace soft visuals, sharp structure, and clean code
+I build:
+- 💖 Emotionally responsive, minimal UI  
+- 🌿 Accessible, semantic layouts  
+- 🎐 Animated interactions that feel intentional  
+- 🌗 Soft visuals with sharp structure
 
 ---
 
@@ -45,9 +45,9 @@ I care about interfaces that:
 
 | 🌼 Project | Description |
 |-----------|-------------|
-| [**Bloomly**](https://github.com/shreyapuff/bloomly) | A pastel mood garden built from scratch using vanilla JS, semantic HTML, CSS variables, localStorage, custom prompts, and animated microinteractions — responsive, accessible, and handcrafted. |
-| [**shreyapuff.dev**](https://github.com/shreyapuff/shreyapuff.dev) | Personal portfolio with theme toggling, GSAP motion, emotional UX copywriting, and soft bloom aesthetics — fully semantic and responsive. |
-| [**Tiny Tools**](https://github.com/shreyapuff/tiny-tools) | Micro frontends and experiments exploring minimalist interactivity, scroll effects, and custom UI behaviors — powered by pure HTML/CSS/JS. |
+| [**Bloomly**](https://github.com/shreyapuff/bloomly) | A local-first mood garden with pastel theming, custom prompts, semantic HTML5, CSS variables, microinteractions, and sparkly handcrafted motion. |
+| [**shreyapuff.dev**](https://github.com/shreyapuff/shreyapuff.dev) | Personal portfolio with bloom-themed animations, GSAP scroll reveals, dark/light toggle, and emotional design tone. |
+| [**Tiny Tools**](https://github.com/shreyapuff/tiny-tools) | Micro projects exploring clarity, motion, and interaction — built with vanilla JS and soft UI logic. |
 
 ---
 
@@ -61,10 +61,10 @@ I care about interfaces that:
   <img src="https://img.shields.io/badge/GitHub%20Pages-Deployments-9ad0ec?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
-- UI theming with CSS variables and dark mode logic  
-- Page animations via @keyframes and GSAP  
-- Custom scrollbars, microUX, and handmade transitions  
-- Fully semantic, accessible layouts  
+- CSS variables, custom scrollbars, handcrafted transitions  
+- GSAP, @keyframes, and semantic HTML5  
+- Minimal, framework-free stack  
+- Responsive and accessible by default  
 
 ---
 
@@ -78,22 +78,31 @@ I care about interfaces that:
 
 ### ☁️ Just Me Things
 
-- 🐇 Vibe: Bloomcore × pixel softness × poet-coded UI  
-- 🎧 Focus Ambience: Lofi, Ghibli, rain  
-- 🛠 Tools: VS Code, Figma, Git, local-first workflow  
+- 🐇 Vibe: Pastel-coded, bloomcore, pixel-soft  
+- 🎧 Ambience: Lofi × rain × Ghibli  
+- 🧁 Motto: Design should feel kind, not just look polished  
+
+---
+
+### 📊 GitHub Glimpse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyapuff&show_icons=true&theme=rose_pine&hide_border=true&icon_color=ffc0cb&title_color=f78da7&text_color=7f5f8f" />
+</p>
 
 ---
 
 ### 🧁 Let’s Build Something Soft & Sharp
 
-Open to internships, freelance, and emotionally intelligent frontends.
-
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me!-ffc9dc?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-shreyapuff@gmail.com-ffd6e0?style=for-the-badge&labelColor=ffb6c1&color=ffd6e0&logo=gmail&logoColor=white" />
   </a>
   <a href="https://shreyapuff.dev">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-ffe0f0?style=for-the-badge&logo=chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-shreyapuff.dev-c3fbd8?style=for-the-badge&labelColor=9ad0ec&color=c3fbd8&logo=chrome&logoColor=black" />
+  </a>
+  <a href="https://github.com/shreyapuff/bloomly">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Try%20Bloomly-Garden%20App-ffe6c7?style=for-the-badge&labelColor=ffe0f0&color=ffe6c7&logo=github&logoColor=black" />
   </a>
 </p>
 
@@ -101,4 +110,3 @@ Open to internships, freelance, and emotionally intelligent frontends.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
 </p>
-
