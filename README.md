@@ -54,11 +54,11 @@ I build:
 ### 🔧 My Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Semantic-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Custom%20Properties-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-Design%20Systems-ffdae0?style=for-the-badge&logo=figma&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-Deployments-9ad0ec?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-Semantic-%23ffc9dc?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23ffb6c1" />
+  <img src="https://img.shields.io/badge/CSS3-Custom%20Props-%23d0f0fd?style=for-the-badge&logo=css3&logoColor=white&labelColor=%23ffdeeb" />
+  <img src="https://img.shields.io/badge/JavaScript-Vanilla-%23fff1c1?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23ffd6e0" />
+  <img src="https://img.shields.io/badge/Figma-Design%20Systems-%23e0c3fc?style=for-the-badge&logo=figma&logoColor=black&labelColor=%23fceaff" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Deployments-%23c3fbd8?style=for-the-badge&logo=github&logoColor=black&labelColor=%239ad0ec" />
 </p>
 
 - CSS variables, custom scrollbars, handcrafted transitions  
@@ -100,9 +100,6 @@ I build:
   </a>
   <a href="https://shreyapuff.dev">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-shreyapuff.dev-c3fbd8?style=for-the-badge&labelColor=9ad0ec&color=c3fbd8&logo=chrome&logoColor=black" />
-  </a>
-  <a href="https://github.com/shreyapuff/bloomly">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Try%20Bloomly-Garden%20App-ffe6c7?style=for-the-badge&labelColor=ffe0f0&color=ffe6c7&logo=github&logoColor=black" />
   </a>
 </p>
 
