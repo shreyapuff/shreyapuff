@@ -5,6 +5,11 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&text=Shreya%20Mishra&height=150&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<!-- 🐱 Hello Kitty wave gif -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreyapuff/shreyapuff/main/wave.gif" width="40" alt="hello kitty wave gif" />
+</p>
+
 <!-- 🎀 Typing quote -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=F78DA7&width=480&lines=Design+can+be+soft+and+smart+🌸;I+build+interfaces+that+feel+like+feelings+🎐;Frontend+is+feelings%2C+semantics%2C+sparkle+💖" />
@@ -16,6 +21,13 @@
     Frontend Developer ✧ UX Designer ✧ Emotional Engineer
   </span>
 </strong></p>
+
+<!-- 🌈 Rainbow-cute pastel badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20HTML%2C%20CSS%2C%20JS-ffd6e0?style=for-the-badge&labelColor=ffb6c1&color=ffd6e0" />
+  <img src="https://img.shields.io/badge/Design-%F0%9F%92%AD%20Soft%20UX-ffe0f0?style=for-the-badge&labelColor=d0f0fd&color=ffe0f0" />
+  <img src="https://img.shields.io/badge/Builds-%20Handcrafted-ffe6c7?style=for-the-badge&labelColor=c3fbd8&color=ffe6c7" />
+</p>
 
 ---
 
@@ -104,4 +116,3 @@ I'm currently open to collaboration, freelance frontend work, or internships in 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
 </p>
-
