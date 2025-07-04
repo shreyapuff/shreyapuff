@@ -5,14 +5,14 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc9dc&text=Shreya%20Mishra&height=120&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- 🌸 Typing Intro -->
+<!-- 🌸 Typing Intro (no waving, no repeats) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=F78DA7&width=460&lines=Shreya+Mishra+%7C+Frontend+Designer-Developer;Building+Soft+Interfaces+with+Sharp+Logic;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=F78DA7&width=460&lines=Frontend+Design+that+Feels+Soft+%26+Sharp;Coding+Interfaces+with+Emotion+and+Clarity;" />
 </p>
 
-<!-- ✨ Roles -->
+<!-- ✨ Clean one-liner vibe -->
 <p align="center"><strong>
-  ✧ Frontend Developer & UX Designer ✧
+  Dreamy interfaces. Poetic code. Real-world empathy.
 </strong></p>
 
 <!-- 🌈 Pastel Skill Badges -->
@@ -26,7 +26,7 @@
 
 ### 🌸 About Me
 
-I'm Shreya — a frontend designer-developer focused on creating interfaces that *feel*. I combine soft visuals with intentional logic to build experiences that are not only usable, but emotionally resonant.
+I'm Shreya — a frontend designer-developer creating interfaces that *feel*. I blend soft visuals with intentional logic to build experiences that are not only usable, but emotionally resonant.
 
 I care about:
 - 💖 Emotionally responsive, minimal UI  
@@ -55,11 +55,11 @@ I care about:
   <img src="https://img.shields.io/badge/Figma-Design%20Systems-%23e0c3fc?style=for-the-badge&logo=figma&logoColor=black&labelColor=%23fceaff" />
 </p>
 
-**Core Workflow:**
+**Workflow & Techniques:**
 - ✿ CSS Variables, custom scrollbars, themed tokens  
-- ✿ GSAP, keyframe animations, and motion logic  
-- ✿ Semantically structured HTML for accessibility  
-- ✿ Minimal stack with full creative control  
+- ✿ GSAP, keyframe animations, motion logic  
+- ✿ Semantic, accessible HTML5  
+- ✿ Minimalist stack with full creative control  
 
 ---
 
@@ -69,7 +69,7 @@ I care about:
 > ✧ *Delight isn’t extra — it’s essential.*  
 > ✧ *Interfaces should feel like thoughtful conversations.*
 
-I see frontend as emotional infrastructure. Every element, every hover, every line of code should make someone feel at home. My work is soft, but never shallow.
+To me, frontend is emotional architecture. Every detail — from colors to copy to code — should serve both *function* and *feeling*.
 
 ---
 
@@ -84,10 +84,10 @@ I see frontend as emotional infrastructure. Every element, every hover, every li
 
 ### 🌟 Let’s Collaborate
 
-I'm currently open to:
-- 💼 Frontend internships & creative tech roles  
-- 🧪 Research/design collaborations (HCI, interaction design)  
-- 🧁 Soft, sparkly project collabs for fun or impact  
+I’m open to:
+- 💼 Frontend internships or research-based roles  
+- 🧪 UX/interaction design collaborations  
+- 🧁 Soft, sparkly side projects that explore emotional UI
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
@@ -103,10 +103,10 @@ I'm currently open to:
 ### ☁️ Personality Peek
 
 - 🐇 Pastel-coded with a bloomcore soul  
-- 🎧 Works best with lofi, rain & Ghibli playing  
-- 🧁 Believes UI should feel kind, not just look clean  
+- 🎧 Lofi, rain, and Ghibli while coding  
+- 🧁 UI should feel kind, not just look clean  
 
-<!-- 🌈 Footer wave -->
+<!-- 🌈 Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
 </p>
