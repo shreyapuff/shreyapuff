@@ -41,7 +41,7 @@ I care about:
 | 🌼 Project | Description |
 |-----------|-------------|
 | [**Bloomly**](https://github.com/shreyapuff/bloomly) | A pastel-coded mood garden with local-first storage, themed prompts, semantic HTML5, CSS variables, and handcrafted microinteractions. |
-| [**shreyapuff.dev**](https://github.com/shreyapuff/shreyapuff.dev) | Portfolio site with bloomcore theming, scroll-triggered GSAP animations, emotion-forward tone, and toggleable light/dark mode. |
+| [**My Website**](https://github.com/shreyapuff/mywebsite) | Portfolio site with bloomcore theming, scroll-triggered GSAP animations, emotion-forward tone, and toggleable light/dark mode. |
 | [**Tiny Tools**](https://github.com/shreyapuff/tiny-tools) | Collection of minimal interactive experiments — clean JS, soft UI logic, and no frameworks, focused on motion + clarity. |
 
 ---
