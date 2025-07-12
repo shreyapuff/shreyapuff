@@ -26,25 +26,29 @@
 
 ### 🌸 About Me
 
-I'm Shreya — a frontend designer-developer creating interfaces that *feel*. Through building projects like **To-Do Soft**, **One Weather Piece**, and **mywebsite**, I've learned how to combine system logic with emotional clarity, crafting user experiences that are gentle, expressive, and functional.
+I’m a frontend designer-developer who codes for clarity and emotion. Through building tools with animation, theming, and interaction design, I’ve learned that frontend isn’t just about layout — it’s about how something feels when you use it.
 
-I focus on:
-- 💖 Interface emotion: microinteractions, mascots, and soft feedback  
-- 🌿 Semantic, scalable layouts with accessible dark mode logic  
-- 🎐 JavaScript structure using ES6 modules and stateful patterns  
-- 🌗 Visual systems that combine pastel softness with coded precision
+I believe good design is:
+- 💖 Emotionally responsive  
+- 🌿 Built from semantics and accessibility first  
+- 🎐 Carefully animated and fully theme-aware  
+- 🌗 Structured in code as thoughtfully as it is in visuals
+
+Every interface I build now reflects those principles — not because I read them in a book, but because I hit the edge cases, broke things, and kept redesigning until it felt right.
 
 ---
 
-### ✨ Featured Projects
+### ✨ What I’ve Learned
 
-| 🌼 Project | What I Learned |
-|-----------|----------------|
-| [**To-Do Soft**](https://github.com/shreyapuff/todo-soft) | A soft, animated to-do app with streak tracking, dark mode, and a mascot-led UX. I learned how to build modular JS components, theme via CSS variables, and layer animations that enhance, not overwhelm. |
-| [**One Weather Piece**](https://github.com/shreyapuff/one-weather-piece) | A One Piece–themed weather app that taught me how to structure async fetch flows, handle real-time API data, and design UI around feedback clarity and playfulness. |
-| [**mywebsite**](https://github.com/shreyapuff/mywebsite) | My personal portfolio — built from scratch with GSAP scroll animations, semantic structure, and bloomcore visual tone. I learned how to express identity through design systems and code equally. |
+- **Design systems start in code**, not just Figma: I use CSS variables, component conventions (BEM), and structured JS modules to make UIs that scale and shift with ease.
 
-> *Also explored local-first UI with [Bloomly](https://github.com/shreyapuff/bloomly), a poetic mood garden focused on offline UX and gentle animations.*
+- **Accessibility is the baseline**, not the bonus: From dark mode readability to keyboard flow, I’ve learned how to bake inclusivity into every layout.
+
+- **Animation should guide, not distract**: I’ve built with both keyframes and GSAP, and now always respect motion preferences. Animation exists to support understanding.
+
+- **State is a UX decision**: Whether handling API feedback or tracking streaks, I’ve learned to connect logic with emotion — so systems feel calm, clear, and helpful.
+
+- **Emotion isn’t fluff**: A mascot, a microinteraction, a pastel gradient — they aren’t extras. They’re interface tone. I now code them intentionally.
 
 ---
 
@@ -57,40 +61,54 @@ I focus on:
   <img src="https://img.shields.io/badge/Figma-Design%20Systems-%23e0c3fc?style=for-the-badge&logo=figma&logoColor=black&labelColor=%23fceaff" />
 </p>
 
-**Workflow & Techniques:**
-- ✿ Modular JS with clean IIFEs or classes  
-- ✿ CSS theming via variables + `data-theme` toggles  
-- ✿ Accessible SVG icons (`<title>`, `<desc>`)  
-- ✿ GSAP + keyframes with `@media (prefers-reduced-motion)`  
-- ✿ Soft UI via shadows, gradients, and motion layering  
+**Workflow Highlights:**
+- Modular JS (ES6 classes, IIFE patterns)  
+- `data-theme` toggling with custom CSS props  
+- Semantic HTML5 and accessible SVGs  
+- PWA manifests and localStorage logic  
+- Web Animations API + `@media (prefers-reduced-motion)`
 
 ---
 
-### 💭 Design & Code Philosophy
+### 🧁 Selected Projects
+
+A few tools where I applied these ideas:
+
+| Project Name | Type |
+|--------------|------|
+| [`To-Do Soft`](https://github.com/shreyapuff/todo-soft) | Interactive task manager with mascot UX and dark mode logic |
+| [`One Weather Piece`](https://github.com/shreyapuff/one-weather-piece) | Data-driven themed weather UI with real-time feedback |
+| [`mywebsite`](https://github.com/shreyapuff/mywebsite) | Personal portfolio with bloomcore animation + semantic structure |
+
+> ✧ Bonus: I also explored gentle, offline-first UX through [Bloomly](https://github.com/shreyapuff/bloomly), a pastel-coded mood garden.
+
+---
+
+### 💭 Philosophy
 
 > ✧ *Clarity is cute.*  
 > ✧ *Delight isn’t extra — it’s essential.*  
-> ✧ *Frontend is emotional infrastructure.*
+> ✧ *Good code should read like thoughtful conversation.*
 
-From mascot-led UX in **To-Do Soft** to API systems in **One Weather Piece**, every project taught me that good interfaces should make people feel understood. Bloomly reminded me that even offline, the web can feel personal.
+Soft doesn’t mean unserious. The more I’ve built, the more I believe in interfaces that balance aesthetic charm with structural care — the kind that professors trust and recruiters remember.
 
 ---
 
 ### 📚 Currently Exploring
 
-- 🎀 Custom design tokens and scalable theme systems  
-- 🧁 Cute but WCAG-compliant animations  
-- 🌸 PWA logic that just feels like “magic”  
-- 🧪 Intentional microinteractions + state feedback
+- ✿ Theming systems & token design  
+- ✿ Progressive enhancement strategies  
+- ✿ Calm UI animations with reduced-motion fallbacks  
+- ✿ Frontend without frameworks — just logic and softness
 
 ---
 
 ### 🌟 Let’s Collaborate
 
 Open to:
-- 💼 Frontend internships or UX/dev research roles  
-- 🧪 Emotion-led design system work  
-- 🧁 Soft side projects that explore gentler web UX
+- 💼 Frontend internships or research-driven design work  
+- 🧪 Collaborative interface experiments  
+- 🧁 Soft UX ideas that feel honest, useful, and charming
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
@@ -105,9 +123,9 @@ Open to:
 
 ### ☁️ Personality Peek
 
-- 🐇 Pastel-coded with a bloomcore soul  
-- 🎧 Ghibli ambience + rain for focus  
-- 🧁 UI should feel kind, not just clean  
+- 🐇 Pastel-coded with a bloomcore spirit  
+- 🎧 Focused with rain + Ghibli ambience  
+- 🧁 Believes UI should feel kind, not just clean  
 
 <!-- 🌈 Footer Wave -->
 <p align="center">
