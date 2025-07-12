@@ -77,7 +77,7 @@ A few tools where I applied these ideas:
 | Project Name | Type |
 |--------------|------|
 | [`To-Do Soft`](https://github.com/shreyapuff/todosoft) | Interactive task manager with mascot UX and dark mode logic |
-| [`One Weather Piece`](https://github.com/shreyapuff/one-weather-piece) | Data-driven themed weather UI with real-time feedback |
+| [`One Weather Piece`](https://github.com/shreyapuff/oneweatherpiece) | Data-driven themed weather UI with real-time feedback |
 | [`mywebsite`](https://github.com/shreyapuff/mywebsite) | Personal portfolio with bloomcore animation + semantic structure |
 
 > ✧ Bonus: I also explored gentle, offline-first UX through [Bloomly](https://github.com/shreyapuff/bloomly), a pastel-coded mood garden.
