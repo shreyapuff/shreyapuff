@@ -76,7 +76,7 @@ I’m Shreya — a frontend developer crafting interfaces that blend **aesthetic
     <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-shreyapuff@gmail.com-fec8d8?style=for-the-badge&labelColor=ffb6c1&color=fec8d8&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
   <a href="https://shreyapuff.github.io/mywebsite">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mywebsite-daeaf6?style=for-the-badge&labelColor=c3bef0&color=daeaf6&logo=chrome&logoColor=black" alt="Portfolio badge" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-my website-daeaf6?style=for-the-badge&labelColor=c3bef0&color=daeaf6&logo=chrome&logoColor=black" alt="Portfolio badge" />
   </a>
 </p>
 
