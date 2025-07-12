@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<!-- 🌸 Soft Banner -->
+<!-- 🌸 Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8&height=100&section=header&text=Shreya%20Mishra&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 </p>
@@ -9,69 +9,84 @@
 
 ---
 
-<!-- 🌈 Quick Bio -->
+<!-- 💡 Identity + Keywords -->
 <h3 align="center">
-  🌷 Frontend · ✨ Motion Design · ♿ Accessibility · 🎨 Soft UX
+  🎀 Frontend & Motion Design · ♿ Accessibility-First · 🎨 Soft UX
 </h3>
 
 ---
 
-<!-- 🧁 Highlights -->
-<h2 align="center">
-  🍬 Core Skills
-</h2>
+<!-- 🛠️ Core Tech Stack (Icon Grid Style) -->
+<h2 align="center">🧩 Tech Toolkit</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme_Toggling-%F0%9F%8C%9F%20emoji--based-ffc9dc?style=flat-square" />
-  <img src="https://img.shields.io/badge/Semantic_HTML5-%F0%9F%93%9A%20a11y-friendly-fec8d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vanilla_JS-%F0%9F%A7%A1%20ES6/IIFE-e0bbff?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reduced_Motion-%F0%9F%8F%BC%20prefers--reduced--motion-ffd6e0?style=flat-square" />
-  <img src="https://img.shields.io/badge/PWA-%F0%9F%9A%80%20offline--ready-b5ead7?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-%F0%9F%93%9A%20semantic-e0bbff?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSS%20Modules-BEM%20naming-ffc9dc?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vanilla%20JS-ES6/IIFE%20modular-fec8d8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Animations-keyframes%20%2B%20reduced--motion-b5ead7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Theming-emoji%20toggles%20via%20data--theme-ffd6e0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Offline-PWA%20%2B%20LocalStorage-c3bef0?style=flat-square" />
 </p>
 
 ---
 
-<!-- 💼 Projects -->
-<h2 align="center">🧁 Featured Work</h2>
+<!-- 🧁 Project Cards (Text + Buttons Layout) -->
+<h2 align="center">🌼 Featured Projects</h2>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
+    <td>
+      <h4>🐰 To-Do Soft</h4>
+      <p>A cozy task app with mascot logic, animated streaks, and theme toggles. No frameworks — just soft UI with modular JS and layered visuals.</p>
       <a href="https://shreyapuff.github.io/todosoft">
-        <img src="https://img.shields.io/badge/%F0%9F%90%B0%20To--Do%20Soft-cozy%20task%20tracker-fec8d8?style=for-the-badge"/>
-      </a><br/>
-      Mascot logic, emoji toggles, streak tracking
+        <img src="https://img.shields.io/badge/Demo-%E2%9C%A8%20View%20Live-fec8d8?style=for-the-badge" />
+      </a>
+      <a href="https://github.com/shreyapuff/todosoft">
+        <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB%20Source-fec8d8?style=for-the-badge" />
+      </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td>
+      <h4>🌦️ One Weather Piece</h4>
+      <p>Live weather app with theme-based feedback, animated state transitions, and responsive layout. Accessible and API-handled cleanly.</p>
       <a href="https://shreyapuff.github.io/oneweatherpiece">
-        <img src="https://img.shields.io/badge/%F0%9F%8C%A6%20One%20Weather%20Piece-live%20forecast%20UI-ffd6e0?style=for-the-badge"/>
-      </a><br/>
-      Theme-based clarity, animated feedback
+        <img src="https://img.shields.io/badge/Demo-%E2%9C%A8%20View%20Live-ffd6e0?style=for-the-badge" />
+      </a>
+      <a href="https://github.com/shreyapuff/oneweatherpiece">
+        <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB%20Source-ffd6e0?style=for-the-badge" />
+      </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td>
+      <h4>🌱 Bloomly</h4>
+      <p>An offline mood garden using LocalStorage. Emotion-coded UI, soft animations, and semantic structure for a peaceful daily log tool.</p>
       <a href="https://shreyapuff.github.io/bloomly">
-        <img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Bloomly-offline%20mood%20garden-e0bbff?style=for-the-badge"/>
-      </a><br/>
-      LocalStorage logic, soft visuals, emotion states
+        <img src="https://img.shields.io/badge/Demo-%E2%9C%A8%20View%20Live-e0bbff?style=for-the-badge" />
+      </a>
+      <a href="https://github.com/shreyapuff/bloomly">
+        <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB%20Source-e0bbff?style=for-the-badge" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- 🔍 Interests -->
-<h2 align="center">📚 Learning Now</h2>
+<!-- 📚 Learning (Cute Checklist Style) -->
+<h2 align="center">📚 Currently Exploring</h2>
 
-<p align="center">
-  ✿ Calm UIs for sensitive motion<br/>
-  ✿ Framework-free frontend<br/>
-  ✿ Resilient fallbacks & progressive enhancement
-</p>
+<ul align="center">
+  <li>✿ Calm UI motion defaults</li>
+  <li>✿ Framework-free frontend structure</li>
+  <li>✿ Progressive enhancement & resilient fallbacks</li>
+</ul>
 
 ---
 
-<!-- 📈 GitHub Stats -->
-<h2 align="center">🌟 GitHub at a Glance</h2>
+<!-- 📊 GitHub Stats (Split View) -->
+<h2 align="center">📈 Activity Snapshot</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyapuff&show_icons=true&hide_title=true&theme=rose_pine&hide_border=true&bg_color=00000000&icon_color=f78da7&text_color=5e5e5e" height="140"/>
@@ -80,8 +95,8 @@
 
 ---
 
-<!-- 📬 Contact -->
-<h2 align="center">💌 Let’s Connect</h2>
+<!-- 💌 Contact Section (Soft Visuals) -->
+<h2 align="center">💌 Get in Touch</h2>
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
@@ -94,10 +109,9 @@
 
 ---
 
-<!-- 🌊 Goodbye Wave -->
+<!-- 🌊 Goodbye -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8&height=100&section=footer" />
 </p>
 
 <p align="center"><em>Thanks for scrolling! Hope your day is soft and well-indented 🌸</em></p>
-
