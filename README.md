@@ -5,12 +5,12 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc9dc&text=Shreya%20Mishra&height=120&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- 🌸 Typing Intro (no waving, no repeats) -->
+<!-- 🌸 Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=F78DA7&width=460&lines=Frontend+Design+that+Feels+Soft+%26+Sharp;Coding+Interfaces+with+Emotion+and+Clarity;" />
 </p>
 
-<!-- ✨ Clean one-liner vibe -->
+<!-- ✨ One-liner vibe -->
 <p align="center"><strong>
   Dreamy interfaces. Poetic code. Real-world empathy.
 </strong></p>
@@ -26,23 +26,25 @@
 
 ### 🌸 About Me
 
-I'm Shreya — a frontend designer-developer creating interfaces that *feel*. I blend soft visuals with intentional logic to build experiences that are not only usable, but emotionally resonant.
+I'm Shreya — a frontend designer-developer creating interfaces that *feel*. Through building projects like **To-Do Soft**, **One Weather Piece**, and **mywebsite**, I've learned how to combine system logic with emotional clarity, crafting user experiences that are gentle, expressive, and functional.
 
-I care about:
-- 💖 Emotionally responsive, minimal UI  
-- 🌿 Accessibility-first, semantic HTML  
-- 🎐 Motion that enhances interaction, not overwhelms  
-- 🌗 Soft aesthetics with sharp underlying structure
+I focus on:
+- 💖 Interface emotion: microinteractions, mascots, and soft feedback  
+- 🌿 Semantic, scalable layouts with accessible dark mode logic  
+- 🎐 JavaScript structure using ES6 modules and stateful patterns  
+- 🌗 Visual systems that combine pastel softness with coded precision
 
 ---
 
 ### ✨ Featured Projects
 
-| 🌼 Project | Description |
-|-----------|-------------|
-| [**Bloomly**](https://github.com/shreyapuff/bloomly) | A pastel-coded mood garden with local-first storage, themed prompts, semantic HTML5, CSS variables, and handcrafted microinteractions. |
-| [**My Website**](https://github.com/shreyapuff/mywebsite) | Portfolio site with bloomcore theming, scroll-triggered GSAP animations, emotion-forward tone, and toggleable light/dark mode. |
-| [**Tiny Tools**](https://github.com/shreyapuff/tiny-tools) | Collection of minimal interactive experiments — clean JS, soft UI logic, and no frameworks, focused on motion + clarity. |
+| 🌼 Project | What I Learned |
+|-----------|----------------|
+| [**To-Do Soft**](https://github.com/shreyapuff/todo-soft) | A soft, animated to-do app with streak tracking, dark mode, and a mascot-led UX. I learned how to build modular JS components, theme via CSS variables, and layer animations that enhance, not overwhelm. |
+| [**One Weather Piece**](https://github.com/shreyapuff/one-weather-piece) | A One Piece–themed weather app that taught me how to structure async fetch flows, handle real-time API data, and design UI around feedback clarity and playfulness. |
+| [**mywebsite**](https://github.com/shreyapuff/mywebsite) | My personal portfolio — built from scratch with GSAP scroll animations, semantic structure, and bloomcore visual tone. I learned how to express identity through design systems and code equally. |
+
+> *Also explored local-first UI with [Bloomly](https://github.com/shreyapuff/bloomly), a poetic mood garden focused on offline UX and gentle animations.*
 
 ---
 
@@ -56,10 +58,11 @@ I care about:
 </p>
 
 **Workflow & Techniques:**
-- ✿ CSS Variables, custom scrollbars, themed tokens  
-- ✿ GSAP, keyframe animations, motion logic  
-- ✿ Semantic, accessible HTML5  
-- ✿ Minimalist stack with full creative control  
+- ✿ Modular JS with clean IIFEs or classes  
+- ✿ CSS theming via variables + `data-theme` toggles  
+- ✿ Accessible SVG icons (`<title>`, `<desc>`)  
+- ✿ GSAP + keyframes with `@media (prefers-reduced-motion)`  
+- ✿ Soft UI via shadows, gradients, and motion layering  
 
 ---
 
@@ -67,34 +70,34 @@ I care about:
 
 > ✧ *Clarity is cute.*  
 > ✧ *Delight isn’t extra — it’s essential.*  
-> ✧ *Interfaces should feel like thoughtful conversations.*
+> ✧ *Frontend is emotional infrastructure.*
 
-To me, frontend is emotional architecture. Every detail — from colors to copy to code — should serve both *function* and *feeling*.
+From mascot-led UX in **To-Do Soft** to API systems in **One Weather Piece**, every project taught me that good interfaces should make people feel understood. Bloomly reminded me that even offline, the web can feel personal.
 
 ---
 
 ### 📚 Currently Exploring
 
-- 🎀 Pastel-themed design systems  
-- 🍥 Accessible motion with GSAP  
-- 🧁 Cute UI that still passes WCAG  
-- ✨ Frontend without frameworks
+- 🎀 Custom design tokens and scalable theme systems  
+- 🧁 Cute but WCAG-compliant animations  
+- 🌸 PWA logic that just feels like “magic”  
+- 🧪 Intentional microinteractions + state feedback
 
 ---
 
 ### 🌟 Let’s Collaborate
 
-I’m open to:
-- 💼 Frontend internships or research-based roles  
-- 🧪 UX/interaction design collaborations  
-- 🧁 Soft, sparkly side projects that explore emotional UI
+Open to:
+- 💼 Frontend internships or UX/dev research roles  
+- 🧪 Emotion-led design system work  
+- 🧁 Soft side projects that explore gentler web UX
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
     <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-shreyapuff@gmail.com-ffd6e0?style=for-the-badge&labelColor=ffb6c1&color=ffd6e0&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://shreyapuff.dev">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-shreyapuff.dev-c3fbd8?style=for-the-badge&labelColor=9ad0ec&color=c3fbd8&logo=chrome&logoColor=black" />
+  <a href="https://mywebsite">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mywebsite-c3fbd8?style=for-the-badge&labelColor=9ad0ec&color=c3fbd8&logo=chrome&logoColor=black" />
   </a>
 </p>
 
@@ -103,8 +106,8 @@ I’m open to:
 ### ☁️ Personality Peek
 
 - 🐇 Pastel-coded with a bloomcore soul  
-- 🎧 Lofi, rain, and Ghibli while coding  
-- 🧁 UI should feel kind, not just look clean  
+- 🎧 Ghibli ambience + rain for focus  
+- 🧁 UI should feel kind, not just clean  
 
 <!-- 🌈 Footer Wave -->
 <p align="center">
