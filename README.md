@@ -1,114 +1,105 @@
 <!-- README.md -->
 
-<!-- 💖 Pastel Banner -->
+<!-- 💖 Pastel Banner with Context -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc9dc&text=Shreya%20Mishra&height=120&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffc9dc&text=Frontend%20Designer%20%26%20Developer&height=120&fontSize=36&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- 🌸 Typing Intro -->
+<!-- 🌸 Strong Opening Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=F78DA7&width=460&lines=Frontend+Design+that+Feels+Soft+%26+Sharp;Coding+Interfaces+with+Emotion+and+Clarity;" />
+  <strong>
+    Interfaces that feel like care — coded with clarity, softness, and semantic strength.
+  </strong>
 </p>
 
-<!-- ✨ One-liner vibe -->
-<p align="center"><strong>
-  Dreamy interfaces. Poetic code. Real-world empathy.
-</strong></p>
-
-<!-- 🌈 Pastel Skill Badges -->
+<!-- ✨ Typing Effect Refined -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML%20%7C%20CSS%20%7C%20JS-ffd6e0?style=for-the-badge&labelColor=ffb6c1&color=ffd6e0" />
-  <img src="https://img.shields.io/badge/Design-Figma%20%26%20UX-ffe0f0?style=for-the-badge&labelColor=d0f0fd&color=ffe0f0" />
-  <img src="https://img.shields.io/badge/Deploy-GitHub%20Pages-c3fbd8?style=for-the-badge&labelColor=9ad0ec&color=c3fbd8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=22&duration=3000&pause=1000&center=true&vCenter=true&color=F78DA7&width=460&lines=Soft-coded+UX+with+semantic+structure;Inclusive+design+through+intentional+interaction;" />
 </p>
 
 ---
 
-### 🌸 About Me
+### 🌷 Hello, I'm Shreya!
 
-I’m a frontend designer-developer who codes for clarity and emotion. Through building tools with animation, theming, and interaction design, I’ve learned that frontend isn’t just about layout — it’s about how something feels when you use it.
+I'm a frontend designer-developer who builds thoughtful UIs with emotion, structure, and accessibility in mind. I combine semantic HTML, CSS custom properties, and modular JavaScript to create experiences that are both technically sound and emotionally resonant.
 
 I believe good design is:
-- 💖 Emotionally responsive  
-- 🌿 Built from semantics and accessibility first  
-- 🎐 Carefully animated and fully theme-aware  
-- 🌗 Structured in code as thoughtfully as it is in visuals
+- 🧠 Built from semantic scaffolding  
+- 🌗 Fully theme-aware and motion-respectful  
+- ✨ Carefully animated to guide, not distract  
+- ♿ Accessible, inclusive, and responsive from the start  
 
-Every interface I build now reflects those principles — not because I read them in a book, but because I hit the edge cases, broke things, and kept redesigning until it felt right.
-
----
-
-### ✨ What I’ve Learned
-
-- **Design systems start in code**, not just Figma: I use CSS variables, component conventions (BEM), and structured JS modules to make UIs that scale and shift with ease.
-
-- **Accessibility is the baseline**, not the bonus: From dark mode readability to keyboard flow, I’ve learned how to bake inclusivity into every layout.
-
-- **Animation should guide, not distract**: I’ve built with both keyframes and GSAP, and now always respect motion preferences. Animation exists to support understanding.
-
-- **State is a UX decision**: Whether handling API feedback or tracking streaks, I’ve learned to connect logic with emotion — so systems feel calm, clear, and helpful.
-
-- **Emotion isn’t fluff**: A mascot, a microinteraction, a pastel gradient — they aren’t extras. They’re interface tone. I now code them intentionally.
+My work blends soft visuals with sharp logic — not because it looks good, but because it *feels right to use.*
 
 ---
 
-### 🧰 Tech Stack
+### 🧠 What I’ve Learned by Building
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Semantic-%23ffc9dc?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23ffb6c1" />
-  <img src="https://img.shields.io/badge/CSS3-Custom%20Props-%23d0f0fd?style=for-the-badge&logo=css3&logoColor=white&labelColor=%23ffdeeb" />
-  <img src="https://img.shields.io/badge/JavaScript-Vanilla-%23fff1c1?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23ffd6e0" />
-  <img src="https://img.shields.io/badge/Figma-Design%20Systems-%23e0c3fc?style=for-the-badge&logo=figma&logoColor=black&labelColor=%23fceaff" />
-</p>
+- **CSS is a design system tool**: I use BEM, custom props, and `data-theme` toggles to build adaptable UI themes with minimal overhead.
 
-**Workflow Highlights:**
-- Modular JS (ES6 classes, IIFE patterns)  
-- `data-theme` toggling with custom CSS props  
-- Semantic HTML5 and accessible SVGs  
-- PWA manifests and localStorage logic  
-- Web Animations API + `@media (prefers-reduced-motion)`
+- **Accessibility isn’t optional**: From keyboard flow to dark mode legibility, I treat inclusivity as a foundational constraint — not a bonus.
+
+- **Animation should support clarity**: Keyframes and the Web Animations API help express meaning, but motion preferences always come first.
+
+- **State is UX**: I link localStorage logic, UI feedback, and microinteractions so that interface behavior reflects emotional flow and clarity.
+
+- **Tone isn’t fluff**: Interface emotion — whether in theme, interaction, or feedback — is a layer of trust that I design with purpose.
+
+---
+
+### 🛠️ Tech Stack
+
+| Area | Tools + Techniques |
+|------|---------------------|
+| **Languages** | HTML5 (semantic), CSS3 (BEM + custom props), Vanilla JS (ES6 modules, IIFE) |
+| **Design** | Figma (component systems), emoji-based themes, pastel accessibility |
+| **UX Logic** | `data-theme` toggling, reduced-motion fallbacks, localStorage state |
+| **Deployment** | GitHub Pages, PWA manifests, responsive layout testing |
+| **Animation** | CSS keyframes, Web Animations API, inclusive motion patterns |
+| **Accessibility** | Semantic markup, accessible SVGs (`<title>` + `<desc>`), keyboard flow |
 
 ---
 
 ### 🧁 Selected Projects
 
-A few tools where I applied these ideas:
+Projects where I applied structure + softness with real impact:
 
-| Project Name | Type |
-|--------------|------|
-| [`To-Do Soft`](https://github.com/shreyapuff/todosoft) | Interactive task manager with mascot UX and dark mode logic |
-| [`One Weather Piece`](https://github.com/shreyapuff/oneweatherpiece) | Data-driven themed weather UI with real-time feedback |
-| [`mywebsite`](https://github.com/shreyapuff/mywebsite) | Personal portfolio with bloomcore animation + semantic structure |
+- 🐰 **[To-Do Soft](https://github.com/shreyapuff/todosoft)**  
+  A cozy PWA task manager with mascot UX, streak logic, pastel theming, and dark mode toggle. Fully accessible, with motion fallbacks and onboarding.
 
-> ✧ Bonus: I also explored gentle, offline-first UX through [Bloomly](https://github.com/shreyapuff/bloomly), a pastel-coded mood garden.
+- 🌦️ **[One Weather Piece](https://github.com/shreyapuff/oneweatherpiece)**  
+  Real-time weather app with live API feedback, animated states, and One Piece–themed UI. Emphasizes clarity in visual + data transitions.
+
+- 🖼️ **[Personal Portfolio](https://github.com/shreyapuff/mywebsite)**  
+  Bloomcore-coded site built with semantic HTML, expressive animations, soft visuals, and a sparkle trail. Focused on what I learned, not just what I built.
+
+> ✧ Bonus: I also explored ambient UX through [Bloomly](https://github.com/shreyapuff/bloomly), an offline-first mood garden with tone-coded interactions.
 
 ---
 
-### 💭 Philosophy
+### ✨ Design Philosophy
 
-> ✧ *Clarity is cute.*  
-> ✧ *Delight isn’t extra — it’s essential.*  
-> ✧ *Good code should read like thoughtful conversation.*
+> *Clarity is cute. Delight is essential. Good code is conversation.*
 
-Soft doesn’t mean unserious. The more I’ve built, the more I believe in interfaces that balance aesthetic charm with structural care — the kind that professors trust and recruiters remember.
+The deeper I’ve gone into frontend, the more I believe that interfaces are emotional spaces. I design and code with softness not as an aesthetic — but as a structure that supports trust, attention, and care.
 
 ---
 
 ### 📚 Currently Exploring
 
-- ✿ Theming systems & token design  
-- ✿ Progressive enhancement strategies  
-- ✿ Calm UI animations with reduced-motion fallbacks  
-- ✿ Frontend without frameworks — just logic and softness
+- ✿ Theming token systems for consistent pastel palettes  
+- ✿ Progressive enhancement and graceful JS fallbacks  
+- ✿ Calm UI principles for motion-reduced preferences  
+- ✿ Framework-free UX logic using native JS
 
 ---
 
-### 🌟 Let’s Collaborate
+### 🤝 Let’s Collaborate
 
-Open to:
-- 💼 Frontend internships or research-driven design work  
-- 🧪 Collaborative interface experiments  
-- 🧁 Soft UX ideas that feel honest, useful, and charming
+I’m currently looking for:
+- 💼 Frontend internships or research-driven UI roles  
+- 🧪 Collabs that blend design and logic for human-first tools  
+- 🧁 Side projects focused on emotional UX, accessibility, and clarity
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
@@ -121,14 +112,17 @@ Open to:
 
 ---
 
-### ☁️ Personality Peek
+### ☁️ A Little Bit Me
 
 - 🐇 Pastel-coded with a bloomcore spirit  
-- 🎧 Focused with rain + Ghibli ambience  
-- 🧁 Believes UI should feel kind, not just clean  
+- 🎧 Focused with rain sounds and Studio Ghibli soundtracks  
+- 🧁 Believes UIs should feel kind, not just clean  
+
+> *Soft doesn’t mean unserious — it means considered.*
+
+---
 
 <!-- 🌈 Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
 </p>
-
