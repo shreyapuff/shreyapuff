@@ -1,117 +1,92 @@
 <!-- README.md -->
 
-<!-- 🌸 Banner -->
+<!-- 🎀 Custom Banner (Optional Replace With Your Own SVG If You Want) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8&height=100&section=header&text=Shreya%20Mishra&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8&height=100&section=header&text=Shreya%20Mishra&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Shreya Mishra banner"/>
 </p>
 
-<p align="center"><em>Interfaces that feel soft, work hard, and stay semantically sound.</em></p>
-
----
-
-<!-- 💡 Identity + Keywords -->
-<h3 align="center">
-  🎀 Frontend & Motion Design · ♿ Accessibility-First · 🎨 Soft UX
-</h3>
-
----
-
-<!-- 🛠️ Core Tech Stack (Icon Grid Style) -->
-<h2 align="center">🧩 Tech Toolkit</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%F0%9F%93%9A%20semantic-e0bbff?style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS%20Modules-BEM%20naming-ffc9dc?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vanilla%20JS-ES6/IIFE%20modular-fec8d8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Animations-keyframes%20%2B%20reduced--motion-b5ead7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Theming-emoji%20toggles%20via%20data--theme-ffd6e0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Offline-PWA%20%2B%20LocalStorage-c3bef0?style=flat-square" />
+  <em>Interfaces that feel soft, work hard, and stay semantically sound.</em>
 </p>
 
 ---
 
-<!-- 🧁 Project Cards (Text + Buttons Layout) -->
-<h2 align="center">🌼 Featured Projects</h2>
+### 🌸 About Me
 
-<table>
-  <tr>
-    <td>
-      <h4>🐰 To-Do Soft</h4>
-      <p>A cozy task app with mascot logic, animated streaks, and theme toggles. No frameworks — just soft UI with modular JS and layered visuals.</p>
-      <a href="https://shreyapuff.github.io/todosoft">
-        <img src="https://img.shields.io/badge/Demo-%E2%9C%A8%20View%20Live-fec8d8?style=for-the-badge" />
-      </a>
-      <a href="https://github.com/shreyapuff/todosoft">
-        <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB%20Source-fec8d8?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🌦️ One Weather Piece</h4>
-      <p>Live weather app with theme-based feedback, animated state transitions, and responsive layout. Accessible and API-handled cleanly.</p>
-      <a href="https://shreyapuff.github.io/oneweatherpiece">
-        <img src="https://img.shields.io/badge/Demo-%E2%9C%A8%20View%20Live-ffd6e0?style=for-the-badge" />
-      </a>
-      <a href="https://github.com/shreyapuff/oneweatherpiece">
-        <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB%20Source-ffd6e0?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🌱 Bloomly</h4>
-      <p>An offline mood garden using LocalStorage. Emotion-coded UI, soft animations, and semantic structure for a peaceful daily log tool.</p>
-      <a href="https://shreyapuff.github.io/bloomly">
-        <img src="https://img.shields.io/badge/Demo-%E2%9C%A8%20View%20Live-e0bbff?style=for-the-badge" />
-      </a>
-      <a href="https://github.com/shreyapuff/bloomly">
-        <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB%20Source-e0bbff?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+I’m Shreya — a frontend developer crafting interfaces that blend **aesthetic clarity**, **accessibility**, and **intentional interaction design**. My work centers on **calm UI patterns**, **theme systems**, and **framework-free approaches** that prioritize user comfort and logical structure.
 
 ---
 
-<!-- 📚 Learning (Cute Checklist Style) -->
-<h2 align="center">📚 Currently Exploring</h2>
+### 🧰 Skills & Approach
 
-<ul align="center">
-  <li>✿ Calm UI motion defaults</li>
-  <li>✿ Framework-free frontend structure</li>
-  <li>✿ Progressive enhancement & resilient fallbacks</li>
-</ul>
-
----
-
-<!-- 📊 GitHub Stats (Split View) -->
-<h2 align="center">📈 Activity Snapshot</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyapuff&show_icons=true&hide_title=true&theme=rose_pine&hide_border=true&bg_color=00000000&icon_color=f78da7&text_color=5e5e5e" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyapuff&layout=compact&hide_border=true&theme=rose_pine&bg_color=00000000&text_color=5e5e5e" height="140"/>
-</p>
+- ♿ **Accessible foundations** — semantic HTML5, ARIA-aware SVGs, keyboard navigation
+- 🎨 **Custom theming** — emoji toggles, `data-theme` attributes, light/dark support
+- 💫 **Motion design** — keyframes, `prefers-reduced-motion`, expressive feedback
+- 📦 **Offline-first** — PWA support, LocalStorage state, responsive layouts
+- 🧩 **Vanilla JavaScript architecture** — ES6 modules, IIFE patterns, progressive enhancement
 
 ---
 
-<!-- 💌 Contact Section (Soft Visuals) -->
-<h2 align="center">💌 Get in Touch</h2>
+### 🛠️ Tools I Use
+
+| **Discipline** | **Tools** |
+|---------------|-----------|
+| **Frontend**  | HTML5, CSS Modules (BEM), Vanilla JS |
+| **Design**    | Figma, emoji-based theming, soft palettes |
+| **UX Logic**  | LocalStorage, accessibility testing, animation tuning |
+| **Delivery**  | GitHub Pages, manifest.json, mobile-first layout |
+
+---
+
+### 🧁 Featured Projects
+
+#### 🐰 [To-Do Soft](https://shreyapuff.github.io/todosoft)  
+> A gentle task manager with a mascot, animated streak tracking, and theme toggling. Built with no frameworks — just modular JavaScript, soft gradients, and accessible design.
+
+[`View Demo`](https://shreyapuff.github.io/todosoft) · [`Source Code`](https://github.com/shreyapuff/todosoft)
+
+---
+
+#### 🌦️ [One Weather Piece](https://shreyapuff.github.io/oneweatherpiece)  
+> Real-time weather updates with soft visual transitions, responsive layout, and emoji feedback tied to theme-based clarity. Includes loading and API-state handling logic.
+
+[`View Demo`](https://shreyapuff.github.io/oneweatherpiece) · [`Source Code`](https://github.com/shreyapuff/oneweatherpiece)
+
+---
+
+#### 🌱 [Bloomly](https://shreyapuff.github.io/bloomly)  
+> A local mood garden that grows as you log feelings. Built offline-first using LocalStorage, color-coded UI states, and cozy ambient motion.
+
+[`View Demo`](https://shreyapuff.github.io/bloomly) · [`Source Code`](https://github.com/shreyapuff/bloomly)
+
+---
+
+### 📚 What I’m Exploring
+
+- 🌸 Designing “calm UIs” for motion-sensitive users  
+- 🧼 Minimal JS interfaces with semantic structure  
+- 💖 Building resilient experiences through progressive enhancement  
+
+---
+
+### 💌 Contact Me
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shreyapuff@gmail.com-fec8d8?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-shreyapuff@gmail.com-fec8d8?style=for-the-badge&labelColor=ffb6c1&color=fec8d8&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-yourwebsite.dev-b5ead7?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-yourwebsite.dev-daeaf6?style=for-the-badge&labelColor=c3bef0&color=daeaf6&logo=chrome&logoColor=black" alt="Portfolio badge" />
   </a>
 </p>
 
 ---
 
-<!-- 🌊 Goodbye -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8&height=100&section=footer" />
+  <em>Thanks for reading! Hope your day is soft and well-indented ✨</em>
 </p>
 
-<p align="center"><em>Thanks for scrolling! Hope your day is soft and well-indented 🌸</em></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8&height=100&section=footer"/>
+</p>
+
