@@ -1,79 +1,91 @@
 <!-- README.md -->
 
-<!-- 💖 Pastel Banner (Stable Version) -->
+<!-- 🎀 Custom Banner (Optional Replace With Your Own SVG If You Want) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=header&text=Shreya%20Mishra&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8&height=100&section=header&text=Shreya%20Mishra&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Shreya Mishra banner"/>
 </p>
 
-<!-- 🌸 Short & Sweet Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=20&duration=3000&pause=1000&center=true&vCenter=true&color=F78DA7&width=380&lines=Frontend+that+feels+kind;Design+with+logic+and+softness;" />
+  <em>Interfaces that feel soft, work hard, and stay semantically sound.</em>
 </p>
 
 ---
 
-### 🌷 Hi, I'm Shreya
+### 🌸 About Me
 
-I build frontend interfaces that feel thoughtful — soft on the outside, structured underneath. My focus is clarity, accessibility, and tiny design details that make tools feel calm and clear to use.
+I’m Shreya — a frontend developer crafting interfaces that blend **aesthetic clarity**, **accessibility**, and **intentional interaction design**. My work centers on **calm UI patterns**, **theme systems**, and **framework-free approaches** that prioritize user comfort and logical structure.
 
 ---
 
-### ✨ Highlights
+### 🧰 Skills & Approach
 
-- `data-theme` toggling with custom props  
-- Modular JS (ES6, IIFE)  
-- Semantic HTML5 and accessible SVGs  
-- Motion design with keyframes + `prefers-reduced-motion`  
-- PWA support and offline-friendly patterns
+- ♿ **Accessible foundations** — semantic HTML5, ARIA-aware SVGs, keyboard navigation
+- 🎨 **Custom theming** — emoji toggles, `data-theme` attributes, light/dark support
+- 💫 **Motion design** — keyframes, `prefers-reduced-motion`, expressive feedback
+- 📦 **Offline-first** — PWA support, LocalStorage state, responsive layouts
+- 🧩 **Vanilla JavaScript architecture** — ES6 modules, IIFE patterns, progressive enhancement
 
 ---
 
 ### 🛠️ Tools I Use
 
-| Area | Tech |
-|------|------|
-| **Code** | HTML, CSS Modules (BEM), Vanilla JS |
-| **Design** | Figma, theme tokens, emoji systems |
-| **UX** | LocalStorage, animation, keyboard nav |
-| **Deploy** | GitHub Pages, manifest.json, responsive layout |
+| **Discipline** | **Tools** |
+|---------------|-----------|
+| **Frontend**  | HTML5, CSS Modules (BEM), Vanilla JS |
+| **Design**    | Figma, emoji-based theming, soft palettes |
+| **UX Logic**  | LocalStorage, accessibility testing, animation tuning |
+| **Delivery**  | GitHub Pages, manifest.json, mobile-first layout |
 
 ---
 
-### 🧁 Projects
+### 🧁 Featured Projects
 
-- 🐰 **[To-Do Soft](https://github.com/shreyapuff/todosoft)**  
-  Cozy task manager with mascot logic, streak tracking, theming, and reduced-motion UX.
+#### 🐰 [To-Do Soft](https://shreyapuff.github.io/todosoft)  
+> A gentle task manager with a mascot, animated streak tracking, and theme toggling. Built with no frameworks — just modular JavaScript, soft gradients, and accessible design.
 
-- 🌦️ **[One Weather Piece](https://github.com/shreyapuff/oneweatherpiece)**  
-  Real-time weather app with animated feedback, API states, and theme-based clarity.
-
-- 🌱 **[Bloomly](https://github.com/shreyapuff/bloomly)**  
-  Offline mood garden with soft visuals, localStorage logic, and emotion-coded UI.
+[`View Demo`](https://shreyapuff.github.io/todosoft) · [`Source Code`](https://github.com/shreyapuff/todosoft)
 
 ---
 
-### 📚 Currently Exploring
+#### 🌦️ [One Weather Piece](https://shreyapuff.github.io/oneweatherpiece)  
+> Real-time weather updates with soft visual transitions, responsive layout, and emoji feedback tied to theme-based clarity. Includes loading and API-state handling logic.
 
-- ✿ Calm UI patterns and motion defaults  
-- ✿ Framework-free frontend with semantic structure  
-- ✿ Progressive enhancement and reduced-js fallbacks  
+[`View Demo`](https://shreyapuff.github.io/oneweatherpiece) · [`Source Code`](https://github.com/shreyapuff/oneweatherpiece)
 
 ---
 
-### 💌 Reach Out
+#### 🌱 [Bloomly](https://shreyapuff.github.io/bloomly)  
+> A local mood garden that grows as you log feelings. Built offline-first using LocalStorage, color-coded UI states, and cozy ambient motion.
+
+[`View Demo`](https://shreyapuff.github.io/bloomly) · [`Source Code`](https://github.com/shreyapuff/bloomly)
+
+---
+
+### 📚 What I’m Exploring
+
+- 🌸 Designing “calm UIs” for motion-sensitive users  
+- 🧼 Minimal JS interfaces with semantic structure  
+- 💖 Building resilient experiences through progressive enhancement  
+
+---
+
+### 💌 Contact Me
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-shreyapuff@gmail.com-ffd6e0?style=for-the-badge&labelColor=ffb6c1&color=ffd6e0&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-shreyapuff@gmail.com-fec8d8?style=for-the-badge&labelColor=ffb6c1&color=fec8d8&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
-  <a href="https://mywebsite">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-mywebsite-c3fbd8?style=for-the-badge&labelColor=9ad0ec&color=c3fbd8&logo=chrome&logoColor=black" />
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-yourwebsite.dev-daeaf6?style=for-the-badge&labelColor=c3bef0&color=daeaf6&logo=chrome&logoColor=black" alt="Portfolio badge" />
   </a>
 </p>
 
 ---
 
-<!-- 🌈 Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc9dc&height=100&section=footer"/>
+  <em>Thanks for reading! Hope your day is soft and well-indented ✨</em>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8&height=100&section=footer"/>
 </p>
