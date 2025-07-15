@@ -1,78 +1,57 @@
 <!-- README.md -->
 
-<!-- 🌸 Banner -->
+<!-- 🌸 Custom Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8,fcd5ce&height=100&section=header&text=Shreya%20Mishra%20%7C%20Frontend%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8,fcd5ce&height=100&section=header&text=Hi%20I'm%20Shreya%20Mishra!&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 </p>
 
-<p align="center"><em>Design-minded frontend developer with a focus on clarity, accessibility, and modular systems.</em></p>
+<p align="center"><em>a frontend developer who builds thoughtful little worlds through semantic HTML, gentle motion, and accessible logic.</em></p>
 
 ---
 
-### ✳️ About Me
+### 🌼 How I Build
 
-Hi, I’m Shreya — a frontend developer who builds interfaces with semantic HTML, purposeful motion, and framework-free logic. My work is shaped by accessibility principles, clean structure, and an attention to user experience that prioritizes clarity over clutter.
-
-I focus on the details that make interfaces *feel right* — from emoji-driven theming to animation that communicates intent, not distraction.
-
----
-
-### 🛠 Core Skills
-
-- ✅ Semantic HTML5 with accessibility baked in from the start
-- ✅ Modular CSS (BEM), CSS custom props, and responsive layouts
-- ✅ Theme systems using emoji toggles and `data-theme` switching
-- ✅ Motion with intent — CSS keyframes and Web Animations API with `prefers-reduced-motion` fallbacks
-- ✅ Vanilla JS architecture — ES6 modules, IIFE patterns, and zero-framework delivery
-- ✅ LocalStorage state management and PWA manifest support
+- ♿ Accessibility-first: semantic HTML5, ARIA-aware SVGs, and color/contrast sanity from day one  
+- 🎨 CSS that scales: custom props, BEM-based modules, and emoji-driven theme toggles  
+- 🧠 Zero frameworks: vanilla JS with ES6 modules, IIFE patterns, and progressive enhancement  
+- 🕊️ Motion with meaning: CSS keyframes + Web Animations API, always `prefers-reduced-motion` friendly  
+- 💾 Offline-friendly UX: LocalStorage state, PWA manifest, and clean GitHub Pages delivery  
 
 ---
 
-### ⚙️ Tools I Work With
-
-| Area         | Tools & Methods |
-|--------------|-----------------|
-| **Markup**   | HTML5, semantic structure, ARIA-aware SVGs |
-| **Styling**  | CSS Modules (BEM), custom props, keyframes |
-| **Logic**    | Vanilla JS (ES6), IIFE, progressive enhancement |
-| **UX Design**| Figma, emoji-based feedback, mobile-first layouts |
-| **Delivery** | GitHub Pages, manifest.json, offline support |
-
----
-
-### 📌 Featured Projects
+### ✨ Projects I Loved Making
 
 #### 🐰 [To-Do Soft](https://shreyapuff.github.io/todosoft)  
-A minimalist task manager with animated streak tracking, a mascot-driven UI, and dark/light theming. Built entirely with modular JS and CSS — no frameworks, no bloat.
+A pastel to-do list that rewards consistency with animated streaks and bunny cheerleaders. Every feature — from data persistence to theme switching — is hand-built with modular JS and CSS. The mascot even reacts to how well you're doing.
 
 [`Live Demo`](https://shreyapuff.github.io/todosoft) · [`Source Code`](https://github.com/shreyapuff/todosoft)
 
 ---
 
 #### 🌦️ [One Weather Piece](https://shreyapuff.github.io/oneweatherpiece)  
-Weather dashboard that adapts visually and emotionally to forecast data. Features emoji-reactive theming, clean API handling, and subtle animated transitions.
+A weather dashboard that responds *emotionally* to real-time forecasts — cloudy days get calmer tones, stormy ones get a bold glow. I focused on API clarity, motion subtlety, and responsive behavior that respects space and scroll.
 
 [`Live Demo`](https://shreyapuff.github.io/oneweatherpiece) · [`Source Code`](https://github.com/shreyapuff/oneweatherpiece)
 
 ---
 
 #### 🌱 [Bloomly](https://shreyapuff.github.io/bloomly)  
-A local-only mood logging tool designed to function offline, with ambient motion, accessible interactions, and a theme that reflects user state.
+Offline mood-logging app designed to reflect your state through soft UI changes and ambient animations. Built without any third-party libraries to explore how far vanilla JS and CSS can go when tuned carefully.
 
 [`Live Demo`](https://shreyapuff.github.io/bloomly) · [`Source Code`](https://github.com/shreyapuff/bloomly)
 
 ---
 
-### 📚 Interests & Exploration
+### 🧶 What I’m Exploring Right Now
 
-- Designing for motion sensitivity with animation fallbacks
-- Building PWA features without adding libraries
-- Creating modular, framework-free UIs with full accessibility
-- Developing theme systems that go beyond color inversion
+- Designing themes that express emotion beyond color inversion 🎭  
+- Creating onboarding flows that *don’t feel like onboarding*  
+- Refining my offline-first PWA patterns  
+- Writing cleaner, friendlier JS APIs for UI interactions  
 
 ---
 
-### 📫 Contact
+### ☕ Let’s Chat!
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
@@ -85,8 +64,9 @@ A local-only mood logging tool designed to function offline, with ambient motion
 
 ---
 
-<p align="center"><em>Thanks for stopping by — always open to projects that prioritize clarity, care, and cleverness.</em></p>
+<p align="center"><em>I care about interfaces that feel kind. If you're working on something clear, clever, or quietly powerful — I’d love to hear from you.</em></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8,fcd5ce&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8,fcd5ce&height=100&section=footer" alt="Footer Banner" />
 </p>
+
