@@ -1,104 +1,92 @@
 <!-- README.md -->
 
-<!-- 🌸 Custom Banner (Pastel & Playful) -->
+<!-- 🌸 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8,fcd5ce&height=100&section=header&text=Shreya%20Mishra%20%7C%20Frontend%20Dev&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Shreya Mishra pastel banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8,fcd5ce&height=100&section=header&text=Shreya%20Mishra%20%7C%20Frontend%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" alt="Banner" />
 </p>
 
-<p align="center">
-  <em>Crafting cozy web interfaces that feel soft, behave logically, and look like they care 💖</em>
-</p>
+<p align="center"><em>Design-minded frontend developer with a focus on clarity, accessibility, and modular systems.</em></p>
 
 ---
 
-### 🌷 Hello, I'm Shreya!
+### ✳️ About Me
 
-I'm a frontend developer who blends **semantic HTML**, **pastel design systems**, and **gentle microinteractions** to build sites that are both accessible and expressive. I care deeply about making the web feel calmer — especially for motion-sensitive users and anyone tired of over-engineered UIs.
+Hi, I’m Shreya — a frontend developer who builds interfaces with semantic HTML, purposeful motion, and framework-free logic. My work is shaped by accessibility principles, clean structure, and an attention to user experience that prioritizes clarity over clutter.
 
-Whether it’s a productivity bunny or a theme-switching garden, my projects explore how small details can create big emotional impact 🐇🌱
-
----
-
-### 🛠️ How I Build Soft UIs
-
-- ♿ **Accessibility-first**  
-  Every SVG gets a `<title>` and keyboard nav is tested from the start.
-
-- 🌗 **Custom theming systems**  
-  I build emoji toggles powered by `data-theme` attributes — with dark/light modes that *feel* different, not just look different.
-
-- 🎞️ **Meaningful motion**  
-  I use CSS keyframes and Web Animations API to teach interaction — always checking for `prefers-reduced-motion`.
-
-- 📦 **Offline-first logic**  
-  With PWA manifest support and LocalStorage state, everything works even when the WiFi doesn’t.
-
-- 📐 **No frameworks, just fundamentals**  
-  Vanilla JS (ES6 modules + IIFE), modular CSS (BEM), and progressive enhancement lead my workflow.
+I focus on the details that make interfaces *feel right* — from emoji-driven theming to animation that communicates intent, not distraction.
 
 ---
 
-### 🎨 My Stack
+### 🛠 Core Skills
 
-| **Focus Area** | **What I Use** |
-|----------------|----------------|
-| **Code** | Semantic HTML5, CSS Modules (BEM), ES6 JavaScript |
-| **Design** | Figma, pastel palettes, handwritten fonts |
-| **User Logic** | LocalStorage, responsive layout, emoji-based feedback |
-| **Delivery** | GitHub Pages, PWA manifests, accessibility audits |
+- ✅ Semantic HTML5 with accessibility baked in from the start
+- ✅ Modular CSS (BEM), CSS custom props, and responsive layouts
+- ✅ Theme systems using emoji toggles and `data-theme` switching
+- ✅ Motion with intent — CSS keyframes and Web Animations API with `prefers-reduced-motion` fallbacks
+- ✅ Vanilla JS architecture — ES6 modules, IIFE patterns, and zero-framework delivery
+- ✅ LocalStorage state management and PWA manifest support
 
 ---
 
-### ✨ Featured Projects
+### ⚙️ Tools I Work With
+
+| Area         | Tools & Methods |
+|--------------|-----------------|
+| **Markup**   | HTML5, semantic structure, ARIA-aware SVGs |
+| **Styling**  | CSS Modules (BEM), custom props, keyframes |
+| **Logic**    | Vanilla JS (ES6), IIFE, progressive enhancement |
+| **UX Design**| Figma, emoji-based feedback, mobile-first layouts |
+| **Delivery** | GitHub Pages, manifest.json, offline support |
+
+---
+
+### 📌 Featured Projects
 
 #### 🐰 [To-Do Soft](https://shreyapuff.github.io/todosoft)  
-A cozy little task manager with a bunny mascot that celebrates your streaks, animations that reward you softly, and an offline-first theme system. No frameworks — just good vibes and modular JS.
+A minimalist task manager with animated streak tracking, a mascot-driven UI, and dark/light theming. Built entirely with modular JS and CSS — no frameworks, no bloat.
 
-[`🌸 Try Live`](https://shreyapuff.github.io/todosoft) · [`🔧 Source`](https://github.com/shreyapuff/todosoft)
+[`Live Demo`](https://shreyapuff.github.io/todosoft) · [`Source Code`](https://github.com/shreyapuff/todosoft)
 
 ---
 
 #### 🌦️ [One Weather Piece](https://shreyapuff.github.io/oneweatherpiece)  
-A soft weather app with emoji-reactive themes, responsive forecast layout, and loading transitions tuned for clarity. Handles API states gracefully — rain or shine.
+Weather dashboard that adapts visually and emotionally to forecast data. Features emoji-reactive theming, clean API handling, and subtle animated transitions.
 
-[`🌤️ View Demo`](https://shreyapuff.github.io/oneweatherpiece) · [`🧪 Code`](https://github.com/shreyapuff/oneweatherpiece)
+[`Live Demo`](https://shreyapuff.github.io/oneweatherpiece) · [`Source Code`](https://github.com/shreyapuff/oneweatherpiece)
 
 ---
 
 #### 🌱 [Bloomly](https://shreyapuff.github.io/bloomly)  
-A mood garden that gently grows as you log your feelings. Built to be calming and local-first — with color-coded states, ambient motion, and thoughtful pacing for reflective UX.
+A local-only mood logging tool designed to function offline, with ambient motion, accessible interactions, and a theme that reflects user state.
 
-[`🌿 Live Garden`](https://shreyapuff.github.io/bloomly) · [`📘 Code`](https://github.com/shreyapuff/bloomly)
-
----
-
-### 📚 Currently Exploring
-
-- ✨ Interfaces that feel emotionally intelligent (not just “dark mode” toggle-deep)
-- 🐌 Calming UIs for motion-sensitive or neurodiverse users
-- 🧩 Progressive enhancement patterns for framework-free apps
-- 🎀 Soft interactivity that earns attention without stealing focus
+[`Live Demo`](https://shreyapuff.github.io/bloomly) · [`Source Code`](https://github.com/shreyapuff/bloomly)
 
 ---
 
-### 💌 Say Hello
+### 📚 Interests & Exploration
+
+- Designing for motion sensitivity with animation fallbacks
+- Building PWA features without adding libraries
+- Creating modular, framework-free UIs with full accessibility
+- Developing theme systems that go beyond color inversion
+
+---
+
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:shreyapuff@gmail.com">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-shreyapuff@gmail.com-fec8d8?style=for-the-badge&labelColor=ffb6c1&color=fec8d8&logo=gmail&logoColor=white" alt="Email badge" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7%20Email-shreyapuff@gmail.com-fec8d8?style=for-the-badge&labelColor=ffb6c1&color=fec8d8&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://shreyapuff.github.io/portfolio">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-softfolio-daeaf6?style=for-the-badge&labelColor=c3bef0&color=daeaf6&logo=chrome&logoColor=black" alt="Portfolio badge" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-View%20Work-daeaf6?style=for-the-badge&labelColor=c3bef0&color=daeaf6&logo=chrome&logoColor=black" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <em>Thanks for visiting — may your code be clean, your margins cozy, and your day softly indented 🧸</em>
-</p>
+<p align="center"><em>Thanks for stopping by — always open to projects that prioritize clarity, care, and cleverness.</em></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8,fcd5ce&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fec8d8,fcd5ce&height=100&section=footer" />
 </p>
-
